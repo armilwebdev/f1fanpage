@@ -27,15 +27,15 @@ function Drivers() {
                 <div className="col-span-1 sm:col-span-2 pl-2 font-bold text-2xl text-gray-700">
                     {index+1}
                 </div>
-                <div className="col-span-1 sm:col-span-2 ">
-                    <p>{driver.Driver.permanent_number}</p>
+                <div className="col-span-1 sm:col-span-2">
+                    <p className="">{driver.Driver.permanent_number}</p>
                 </div>
                 <div className="flex  mb-2 col-span-2 relative">
-                    <div className="pl-2 sm:text-center align-middle self-end text-7xl sm:text-5xl italic font-black text-gray-500 absolute fixed left-0 bottom-0">
+                    <div className="z-50 pl-2 sm:text-center align-middle self-end text-8xl sm:text-7xl italic font-black  absolute fixed left-0 bottom-0  text-gray-500">
                         <p>{driver.Driver.permanentNumber}</p>
                     </div>
                     <div className="w-full h-full grid justify-items-stretch">
-                        <img className="driver-image justify-self-end  w-72 h-72 sm:w-60 sm:h-60  md:w-48 md:h-48 lg:w-64 lg:h-64   rounded-full"src={driver.Driver.image}/>
+                        <img className="driver-image justify-self-end  w-72 h-72 sm:w-60 sm:h-60  md:w-72 md:h-72 lg:w-64 lg:h-64  rounded-full"src={driver.Driver.image}/>
                     </div>
                         
                 </div>
