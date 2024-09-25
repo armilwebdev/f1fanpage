@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom';
 
 const Navbar = () =>{
     const [isOpen, setIsOpen] = useState(false);
-    
+
     return(
         <nav className="bg-gray-800 shadow-lg">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -16,18 +16,12 @@ const Navbar = () =>{
                 <img src={logo} alt="Logo" className="h-8 w-auto" />
               </a>
             </div>
-  
             <div className="hidden md:flex space-x-8 items-center text-xl">
               {/* Links for larger screens */}
               <Link to="/drivers" className="text-white hover:text-gray-300">
                 Drivers
               </Link>
-              <a href="#services" className="text-white hover:text-gray-300">
-                Services
-              </a>
-              <a href="#contact" className="text-white hover:text-gray-300">
-                Contact
-              </a>
+
             </div>
   
             {/* Hamburger Icon for small screens */}
@@ -58,18 +52,9 @@ const Navbar = () =>{
         {/* Dropdown menu for small screens */}
         {isOpen && (
           <div className="md:hidden">
-            <a href="#home" className="block px-4 py-2 text-white hover:text-gray-300">
-              Home
-            </a>
-            <a href="#about" className="block px-4 py-2 text-white hover:text-gray-300">
-              About
-            </a>
-            <a href="#services" className="block px-4 py-2 text-white hover:text-gray-300">
-              Services
-            </a>
-            <a href="#contact" className="block px-4 py-2 text-white hover:text-gray-300">
-              Contact
-            </a>
+              <Link to="/drivers" className="text-white hover:text-gray-300">
+                Drivers
+              </Link>
           </div>
         )}
       </nav>
