@@ -9,11 +9,11 @@ const Navbar = () =>{
     return(
         <nav className="bg-gray-800 shadow-lg">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="flex justify-between h-16">
+          <div className="flex justify-between h-auto py-3">
             <div className="flex-shrink-0 flex items-center">
               <a href="/" className="text-2xl font-bold">
                 {/* Logo */}
-                <img src={logo} alt="Logo" className="h-8 w-auto" />
+                <img src={logo} alt="Logo" className="h-12 w-auto" />
               </a>
             </div>
             <div className="hidden md:flex space-x-8 items-center text-xl">

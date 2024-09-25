@@ -27,7 +27,7 @@
                   "familyName": "Verstappen",
                   "dateOfBirth": "1997-09-30",
                   "nationality": "Dutch",
-                  "image": "https://www.sportmonks.com/wp-content/uploads/2024/03/MV.png", "flagImage": "/assets/flags/Flag_of_Netherlands_Flat_Round-64x64.png"
+                  "image": "https://www.sportmonks.com/wp-content/uploads/2024/03/MV.png", "flagImage": "/assets/images/flags/Flag_of_Netherlands_Flat_Round-64x64.png"
                 },
                 "Constructors": [
                   {
@@ -53,7 +53,7 @@
                   "dateOfBirth": "1999-11-13",
                   "nationality": "British",
                   "image": "https://www.sportmonks.com/wp-content/uploads/2024/03/Lando.png", 
-                  "flagImage": "/assets/flags/Flag_of_United_Kingdom_Flat_Round-64x64.png"
+                  "flagImage": "/assets/images/flags/Flag_of_United_Kingdom_Flat_Round-64x64.png"
                 },
                 "Constructors": [
                   {
@@ -79,7 +79,7 @@
                   "dateOfBirth": "1997-10-16",
                   "nationality": "Monegasque",
                   "image": "https://www.sportmonks.com/wp-content/uploads/2024/03/CLC.png", "flagImage": 
-                  "/assets/flags/Flag_of_Monaco_Flat_Round-64x64.png"
+                  "/assets/images/flags/Flag_of_Monaco_Flat_Round-64x64.png"
                 },
                 "Constructors": [
                   {
@@ -105,7 +105,7 @@
                   "dateOfBirth": "2001-04-06",
                   "nationality": "Australian",
                   "image": "https://www.sportmonks.com/wp-content/uploads/2024/03/Oscar.png", 
-                  "flagImage": "/assets/flags/Flag_of_Australia_Flat_Round-64x64.png"
+                  "flagImage": "/assets/images/flags/Flag_of_Australia_Flat_Round-64x64.png"
                 },
                 "Constructors": [
                   {
@@ -131,7 +131,7 @@
                   "dateOfBirth": "1994-09-01",
                   "nationality": "Spanish",
                   "image": "https://www.sportmonks.com/wp-content/uploads/2024/03/Sainz.png", 
-                  "flagImage": "/assets/flags/Flag_of_Spain_Flat_Round-64x64.png"
+                  "flagImage": "/assets/images/flags/Flag_of_Spain_Flat_Round-64x64.png"
 
                 },
                 "Constructors": [
@@ -158,7 +158,7 @@
                   "dateOfBirth": "1985-01-07",
                   "nationality": "British",
                   "image": "https://www.sportmonks.com/wp-content/uploads/2024/03/Lewis.png", 
-                  "flagImage": "/assets/flags/Flag_of_United_Kingdom_Flat_Round-64x64.png"
+                  "flagImage": "/assets/images/flags/Flag_of_United_Kingdom_Flat_Round-64x64.png"
 
                 },
                 "Constructors": [
@@ -185,7 +185,7 @@
                   "dateOfBirth": "1998-02-15",
                   "nationality": "British",
                   "image": "https://www.sportmonks.com/wp-content/uploads/2024/03/George.png", 
-                  "flagImage": "/assets/flags/Flag_of_United_Kingdom_Flat_Round-64x64.png"
+                  "flagImage": "/assets/images/flags/Flag_of_United_Kingdom_Flat_Round-64x64.png"
                 },
                 "Constructors": [
                   {
@@ -211,7 +211,7 @@
                   "dateOfBirth": "1990-01-26",
                   "nationality": "Mexican",
                   "image": "https://www.sportmonks.com/wp-content/uploads/2024/03/Sergio-Perez.png", 
-                  "flagImage": "/assets/flags/Flag_of_Mexico_Flat_Round-64x64.png"
+                  "flagImage": "/assets/images/flags/Flag_of_Mexico_Flat_Round-64x64.png"
 
                 },
                 "Constructors": [
@@ -238,7 +238,7 @@
                   "dateOfBirth": "1981-07-29",
                   "nationality": "Spanish",
                   "image": "https://www.sportmonks.com/wp-content/uploads/2024/03/Alonso.png", 
-                  "flagImage": "/assets/flags/Flag_of_Spain_Flat_Round-64x64.png"
+                  "flagImage": "/assets/images/flags/Flag_of_Spain_Flat_Round-64x64.png"
                 },
                 "Constructors": [
                   {
@@ -264,7 +264,7 @@
                   "dateOfBirth": "1987-08-19",
                   "nationality": "German",
                   "image": "https://www.sportmonks.com/wp-content/uploads/2024/03/Nico.png", 
-                  "flagImage": "/assets/flags/Flag_of_Germany_Flat_Round-64x64.png"
+                  "flagImage": "/assets/images/flags/Flag_of_Germany_Flat_Round-64x64.png"
                 },
                 "Constructors": [
                   {
@@ -290,7 +290,7 @@
                   "dateOfBirth": "1998-10-29",
                   "nationality": "Canadian",
                   "image": "https://www.sportmonks.com/wp-content/uploads/2024/03/Stroll.png", 
-                  "flagImage": "/assets/flags/Flag_of_Canada_Flat_Round-64x64.png"
+                  "flagImage": "/assets/images/flags/Flag_of_Canada_Flat_Round-64x64.png"
                 },
                 "Constructors": [
                   {
@@ -316,7 +316,7 @@
                   "dateOfBirth": "2000-05-11",
                   "nationality": "Japanese",
                   "image": "https://www.sportmonks.com/wp-content/uploads/2024/03/Yuki.png", 
-                  "flagImage": "/assets/flags/Flag_of_Japan_Flat_Round-64x64.png"
+                  "flagImage": "/assets/images/flags/Flag_of_Japan_Flat_Round-64x64.png"
                 },
                 "Constructors": [
                   {
@@ -342,7 +342,7 @@
                   "dateOfBirth": "1996-03-23",
                   "nationality": "Thai",
                   "image": "https://www.sportmonks.com/wp-content/uploads/2024/03/Alex.png", 
-                  "flagImage": "/assets/flags/Flag_of_Thailand_Flat_Round-64x64.png"
+                  "flagImage": "/assets/images/flags/Flag_of_Thailand_Flat_Round-64x64.png"
                 },
                 "Constructors": [
                   {
@@ -368,7 +368,7 @@
                   "dateOfBirth": "1989-07-01",
                   "nationality": "Australian",
                   "image": "https://www.sportmonks.com/wp-content/uploads/2024/03/Daniel.png", 
-                  "flagImage": "/assets/flags/Flag_of_Australia_Flat_Round-64x64.png"
+                  "flagImage": "/assets/images/flags/Flag_of_Australia_Flat_Round-64x64.png"
                 },
                 "Constructors": [
                   {
@@ -394,7 +394,7 @@
                   "dateOfBirth": "1996-02-07",
                   "nationality": "French",
                   "image": "https://www.sportmonks.com/wp-content/uploads/2024/03/Pierre.png", 
-                  "flagImage": "/assets/flags/Flag_of_France_Flat_Round-64x64.png"
+                  "flagImage": "/assets/images/flags/Flag_of_France_Flat_Round-64x64.png"
                 },
                 "Constructors": [
                   {
@@ -420,7 +420,7 @@
                   "dateOfBirth": "2005-05-08",
                   "nationality": "British",
                   "image": "/assets/images/drivers/bearman.png", 
-                  "flagImage": "/assets/flags/Flag_of_United_Kingdom_Flat_Round-64x64.png"
+                  "flagImage": "/assets/images/flags/Flag_of_United_Kingdom_Flat_Round-64x64.png"
                 },
                 "Constructors": [
                   {
@@ -452,7 +452,7 @@
                   "dateOfBirth": "1992-10-05",
                   "nationality": "Danish",
                   "image": "https://www.sportmonks.com/wp-content/uploads/2024/03/Kevin.png", 
-                  "flagImage": "/assets/flags/Flag_of_Denmark_Flat_Round-64x64.png"
+                  "flagImage": "/assets/images/flags/Flag_of_Denmark_Flat_Round-64x64.png"
                 },
                 "Constructors": [
                   {
@@ -478,7 +478,7 @@
                   "dateOfBirth": "1996-09-17",
                   "nationality": "French",
                   "image": "https://www.sportmonks.com/wp-content/uploads/2024/03/Esteban.png", 
-                  "flagImage": "/assets/flags/Flag_of_France_Flat_Round-64x64.png"
+                  "flagImage": "/assets/images/flags/Flag_of_France_Flat_Round-64x64.png"
                 },
                 "Constructors": [
                   {
@@ -504,7 +504,7 @@
                   "dateOfBirth": "2003-05-27",
                   "nationality": "Argentinian ",
                   "image": "/assets/images/drivers/colapinto.png", 
-                  "flagImage": "/assets/flags/Flag_of_Argentina_Flat_Round-64x64.png"
+                  "flagImage": "/assets/images/flags/Flag_of_Argentina_Flat_Round-64x64.png"
                 },
                 "Constructors": [
                   {
@@ -530,7 +530,7 @@
                   "dateOfBirth": "1999-05-30",
                   "nationality": "Chinese",
                   "image": "https://www.sportmonks.com/wp-content/uploads/2024/03/Zhou.png", 
-                  "flagImage": "/assets/flags/Flag_of_Peoples_Republic_of_China_Flat_Round-64x64.png"
+                  "flagImage": "/assets/images/flags/Flag_of_Peoples_Republic_of_China_Flat_Round-64x64.png"
 
                 },
                 "Constructors": [
@@ -557,7 +557,7 @@
                   "dateOfBirth": "2000-12-31",
                   "nationality": "American",
                   "image": "https://www.sportmonks.com/wp-content/uploads/2024/03/Logan.png", 
-                  "flagImage": "/assets/flags/Flag_of_United_States_Flat_Round-64x64.png"
+                  "flagImage": "/assets/images/flags/Flag_of_United_States_Flat_Round-64x64.png"
 
                 },
                 "Constructors": [
@@ -584,7 +584,7 @@
                   "dateOfBirth": "1989-08-28",
                   "nationality": "Finnish",
                   "image": "https://www.sportmonks.com/wp-content/uploads/2024/03/Bottas.png", 
-                    "flagImage": "/assets/flags/Flag_of_Finland_Flat_Round-64x64.png"                
+                    "flagImage": "/assets/images/flags/Flag_of_Finland_Flat_Round-64x64.png"                
                 },
                 "Constructors": [
                   {
