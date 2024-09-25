@@ -584,7 +584,7 @@
                   "dateOfBirth": "1989-08-28",
                   "nationality": "Finnish",
                   "image": "https://www.sportmonks.com/wp-content/uploads/2024/03/Bottas.png", 
-                  "flagImage": "../assets/images/flags/Flag_of_Finland_Flat_Round-64x64.png"
+                  "flagImage": "/assets/images/flags/Flag_of_Finland_Flat_Round-64x64.png"
                 },
                 "Constructors": [
                   {
