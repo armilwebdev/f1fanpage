@@ -33,7 +33,7 @@ function Drivers() {
                     <div className="pl-2 w-full sm:text-center align-middle self-end text-7xl sm:text-5xl italic font-black text-gray-500">
                         <p>{driver.Driver.permanentNumber}</p>
                     </div>
-                    <img className="border-r-2 h-60 w-60 sm:w-48 sm:h-48  border-neutral-500 border-r-4 rounded-full"src={driver.Driver.image}/>
+                    <img className="border-r-2 h-40 w-40 sm:w-48 sm:h-48  border-neutral-500 border-r-4 rounded-full"src={driver.Driver.image}/>
                 </div>
                 <div className="col-span-1 sm:col-span-2 mb-2">
                     <p className="py-2 px-2 bg-gray-800 text-white rounded-r tracking-wider flex items-center justify-between">
