@@ -31,7 +31,7 @@ function Drivers() {
                         {index+1}
                     </div>
                     <div className="text-lg tracking-wider font-bold text-left 
-                                    text-gray-500 opacity-90 mt-1">
+                                    text-gray-500 opacity-90 mt-1 py-4">
                         <span className="bg-gray-800 px-2 text-white border border-gray-800">POINTS</span>
                         <span className="border border-gray-800 px-2 rounded-r">{driver.points}</span>
                     </div>
