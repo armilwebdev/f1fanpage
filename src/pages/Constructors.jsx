@@ -24,7 +24,7 @@ function Constructors() {
     return(
         <div className=" bg-gray-500  text-white">
             <div className="p-4">
-                <h1 className="text-6xl font-bold text-center mt-24 text-white">F1 2024 Constructors</h1>
+                <h1 className="text-2xl md:text-6xl font-bold text-center mt-24 text-white">F1 2024 Constructors</h1>
                 <div className="mt-24">
                    <div className="grid grid-cols-1 w-full bg-white text-gray-800 py-8 px-2 rounded">
                         {teams.map((team, index) => (
