@@ -20,18 +20,18 @@ function Drivers() {
             <h1 className="text-6xl font-bold text-center mb-24">F1 2024 Drivers</h1>
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-3  xl:grid-cols-4 justify-items-center gap-12">
             {drivers.map((driver, index) => (
-            <a href="#" className=" pr-4 pt-4 border w-full  sm:w-90 rounded-xl   
+            <a href="#" className=" pr-4 pt-0 border w-full  sm:w-90 rounded-xl   
                                     shadow grid grid-cols-1 sm:grid-cols-2 relative 
                                     bg-white card hover:bg-gray-50"  
                                     key={index}
                                     onClick={(event) => event.preventDefault()}
                         >
                 <div className=" w-full font-bold text-gray-700 w-full">
-                    <div className="text-4xl">
+                    <div className="text-4xl pl-1">
                         {index+1}
                     </div>
                     <div className="text-lg tracking-wider font-bold text-left 
-                                    text-gray-500 opacity-90 mt-1 py-4">
+                                    text-gray-500 opacity-90 mt-1">
                         <span className="bg-gray-800 px-2 text-white border border-gray-800">POINTS</span>
                         <span className="border border-gray-800 px-2 rounded-r">{driver.points}</span>
                     </div>
