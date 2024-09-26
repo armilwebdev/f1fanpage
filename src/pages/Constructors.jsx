@@ -23,7 +23,7 @@ function Constructors() {
 
     return(
         <div className=" bg-gray-500  text-white">
-            <div className="p-4">
+            <div className="p-1 sm:p-2 md:p-4">
                 <h1 className="text-2xl md:text-6xl font-bold text-center mt-24 text-white">F1 2024 Constructors</h1>
                 <div className="mt-24">
                 <div className="w-full bg-gray-700 py-8 px-2 rounded">
@@ -37,6 +37,7 @@ function Constructors() {
                             }}>
                             <div>{team.Constructor.name}</div>
                             <div className="text-xs">Points: {team.points}</div>
+                            <div className="text-xs">Wins: {team.wins}</div>
                         </div>
                         <div
                             className="font-bold py-4 ml-0"
