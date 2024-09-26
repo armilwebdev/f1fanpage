@@ -23,7 +23,9 @@ function Drivers() {
             <a href="#" className=" pr-4 pt-4 border w-full  sm:w-90 rounded-xl   
                                     shadow grid grid-cols-1 sm:grid-cols-2 relative 
                                     bg-white card hover:bg-gray-50"  
-                                    key={index}>
+                                    key={index}
+                                    onClick={(event) => event.preventDefault()}
+                        >
                 <div className=" w-full font-bold text-gray-700 w-full">
                     <div className="text-4xl">
                         {index+1}
