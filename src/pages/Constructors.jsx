@@ -26,6 +26,32 @@ function Constructors() {
             <div className="p-4">
                 <h1 className="text-2xl md:text-6xl font-bold text-center mt-24 text-white">F1 2024 Constructors</h1>
                 <div className="mt-24">
+                <div className="w-full bg-gray-700 py-8 px-2 rounded">
+                        {teams.map((team, index) => (
+                        
+                        <div key={index} className=" flex 0">
+                        <div className="tracking-wider min-w-36 max-w-28 py-4 text-right pr-4 
+                                        uppercase text-xs sm:text-xl border-gray-600 border-y"
+                        style={{
+                            width: `${Math.round((team.points / topTeamPoints) * 100)}%`,
+                            }}>
+                            <div>{team.Constructor.name}</div>
+                            <div className="text-xs">Points: {team.points}</div>
+                        </div>
+                        <div
+                            className="font-bold py-4 ml-0"
+                            style={{
+                                width: `${Math.round((team.points / topTeamPoints) * 100)}%`,
+                                backgroundColor: team.color, 
+                                color: team.color
+                            }}
+                        >
+                            .
+                        </div>
+                            
+                        </div>
+                        ))}
+                   </div>
                    <div className="grid grid-cols-1 w-full bg-white text-gray-800 py-8 px-2 rounded">
                         {teams.map((team, index) => (
                         <div key={index} className="mb-4">
@@ -40,6 +66,7 @@ function Constructors() {
                             .
                         </div>
                             <div className="font-bold">{team.Constructor.name}</div>
+                            <div>Position: {team.position}</div>
                             <div>Wins: {team.wins}</div>
                             <div>Points: {team.points}</div>
 
