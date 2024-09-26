@@ -37,7 +37,7 @@ function Constructors() {
                             <CartesianGrid strokeDasharray="3 3" />
                             <XAxis type="number" dataKey="points" tick={{ fill: 'white' }}/>
                             <YAxis type="category" dataKey="name" width={150} tick={{ fill: 'white' }}/>
-                            <Bar dataKey="points" label={{ fill: 'darkblue', fontSize: 16 }}>
+                            <Bar dataKey="points" label={{ fill: 'white', fontSize: 16 }}>
                                 {formattedData.map((entry, index) => (
                                     <Cell key={`cell-${index}`} fill={entry.color || "#8884d8"} /> // Use team color dynamically
                                 ))}
